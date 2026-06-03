@@ -1,35 +1,33 @@
-# Data Structure Code
-# Data-Structure-Codes
+# 📘 Data Structure Codes
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=0A66C2&center=true&vCenter=true&width=700&lines=Data+Structure+Codes;DSA+Programs+for+Practice;Stacks+Queues+Trees+Graphs;Learning+through+Code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=0A66C2&center=true&vCenter=true&width=700&lines=Data+Structure+Codes;Learn+DSA+Step+by+Step" alt="Typing SVG" />
 </p>
 
-## About
+## 📖 About
 This repository contains data structure programs and algorithm examples for learning, practice, and academic use.
 
-## Topics Covered
-- Arrays
-- Linked List
-- Stack
-- Queue
-- Tree
-- Graph
-- Searching
-- Sorting
-- Recursion
+## 📚 Topics Covered
+- 📌 Arrays
+- 📌 Linked List
+- 📌 Stack
+- 📌 Queue
+- 🌳 Tree
+- 🔗 Graph
+- 🔍 Searching
+- ↕️ Sorting
+- 🔁 Recursion
 
-## Features
-- Beginner-friendly code
-- Clear program structure
-- Useful for college practice
-- Good for DSA revision
+## ✨ Features
+- ✅ Beginner-friendly code
+- ✅ Clear program structure
+- ✅ Useful for college practice
+- ✅ Good for DSA revision
 
-## Languages Used
+## 💻 Language Used
 - C
-  
 
-## Example Programs
+## 🧠 Example Programs
 - Stack using Array
 - Queue using Linked List
 - Bubble Sort
@@ -37,7 +35,7 @@ This repository contains data structure programs and algorithm examples for lear
 - Tree Traversal
 - Graph Traversal
 
-## Repository Structure
+## 📂 Repository Structure
 ```bash
 Data-Structure-codes/
 │── Arrays/
@@ -51,5 +49,5 @@ Data-Structure-codes/
 │── README.md
 ```
 
-## Author
+## 👩‍💻 Author
 **Rajeshwari Bhute**
